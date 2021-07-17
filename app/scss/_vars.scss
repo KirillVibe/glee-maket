@@ -1,0 +1,43 @@
+$header-color: #436372;
+$bg-blue: #a3bbc8;
+$blue-title: #243f4d;
+$title: #191919;
+$default: #8b8b8b;
+$pink-bg: #fcd7b6;
+$grey: #7b7b7b;
+$footer-title: #1f2044;
+$pink-input: #fef7f0;
+$blue-btn: #a3bbc8;
+$dots-color: #fde3cc;
+
+%rubik-500 {
+    font-family: "Rubik-Medium";
+    font-weight: 500;
+    font-style: normal;
+}
+%rubik-400 {
+    font-family: "Rubik-Regular";
+    font-weight: 400;
+    font-style: normal;
+}
+
+%poppins-700 {
+    font-family: "Poppins-Bold";
+    font-weight: 700;
+    font-style: normal;
+}
+%dm-700 {
+    font-family: "DMSans-Bold";
+    font-weight: 700;
+    font-style: normal;
+}
+%dm-500 {
+    font-family: "DMSans-Medium";
+    font-weight: 500;
+    font-style: normal;
+}
+%dm-400 {
+    font-family: "DMSans-Regular";
+    font-weight: 400;
+    font-style: normal;
+}
